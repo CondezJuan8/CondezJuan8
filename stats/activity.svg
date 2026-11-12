@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="t d">
+<title id="t">ACTIVITY TREND</title><desc id="d">Daily public activity will appear after the first workflow run.</desc>
+<defs><linearGradient id="g"><stop stop-color="#FF1744"/><stop offset="1" stop-color="#A855F7"/></linearGradient></defs>
+<rect width="1000" height="190" rx="18" fill="#08080D" stroke="#252532"/>
+<rect x="0" y="0" width="5" height="190" rx="2" fill="url(#g)"/>
+<text x="34" y="72" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">ACTIVITY TREND</text>
+<text x="34" y="112" fill="#A1A1AA" font-family="Segoe UI,Arial,sans-serif" font-size="15">Daily public activity will appear after the first workflow run.</text>
+<text x="34" y="148" fill="#A855F7" font-family="Consolas,monospace" font-size="12">Awaiting first GitHub Actions run...</text>
+</svg>
