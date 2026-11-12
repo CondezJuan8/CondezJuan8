@@ -1,143 +1,266 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Juan Pablo Conde — crimson neon portfolio banner" />
+<img src="assets/condez-hero.svg" alt="Condez — Software Development Technician" width="100%">
 
-<br />
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=FF6078&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Software+Developer+%7C+Backend-Focused;Java+%26+Spring+Boot+%2F+Angular+%26+TypeScript;Designing+better+solutions%2C+one+iteration+at+a+time" alt="Animated professional headline" />
+<a href="assets/Condez_CV.pdf">
+  <img src="https://img.shields.io/badge/DOWNLOAD%20MY%20RESUME-FF1744?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=08080D" alt="Download my resume">
+</a>
+&nbsp;
+<a href="https://github.com/CondezJuan8">
+  <img src="https://img.shields.io/badge/GITHUB-101018?style=for-the-badge&logo=github&logoColor=white&labelColor=7B2CFF" alt="GitHub profile">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/condezp8">
+  <img src="https://img.shields.io/badge/LINKEDIN-101018?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7B2CFF" alt="LinkedIn profile">
+</a>
 
-<br />
+<br><br>
 
-<a href="https://www.linkedin.com/in/condezp8"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-141018?style=for-the-badge&amp;logo=linkedin&amp;logoColor=ff6279&amp;labelColor=141018" /></a>
-<a href="mailto:condez.juanp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-141018?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff6279&amp;labelColor=141018" /></a>
-<a href="https://github.com/CondezJuan8?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/REPOSITORIES-141018?style=for-the-badge&amp;logo=github&amp;logoColor=ff6279&amp;labelColor=141018" /></a>
+**SOFTWARE DEVELOPMENT TECHNICIAN** &nbsp;·&nbsp; **GLOBANT** &nbsp;·&nbsp; **COLOMBIA**
 
-</div>
-
-<br />
-
-<img src="assets/section-01.svg" width="100%" alt="01 Introduction" />
-
-I am **Juan Pablo Conde Zapata**, a **Software Development Technician** with hands-on full-stack project experience and a strong focus on **backend development, software architecture, and building reliable, maintainable applications**.
-
-I work with **Java, Spring Boot, JavaScript, TypeScript, Angular, Node.js, Python, SQL/NoSQL, and Git**. I value analytical thinking, clear communication, problem solving, and continuous improvement.
-
-> Building software with intention: thoughtful structure, practical solutions, and room to grow.
-
-<img src="assets/section-02.svg" width="100%" alt="02 Technology" />
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python&amp;theme=dark" alt="Java, JavaScript, TypeScript, Python" />
-
-<br /><br />
-
-**FRAMEWORKS & RUNTIME**
-
-<img src="https://skillicons.dev/icons?i=spring,angular,nodejs&amp;theme=dark" alt="Spring Boot, Angular, Node.js" />
-
-<br /><br />
-
-**DATABASES & VERSION CONTROL**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github&amp;theme=dark" alt="MySQL, MongoDB, Git and GitHub" />
+*Building software. Engineering solutions. Creating impact.*
 
 </div>
 
-<sub>These icons represent technologies listed in my CV, not claimed proficiency levels.</sub>
+---
 
-<img src="assets/section-03.svg" width="100%" alt="03 Selected work" />
+## / PROFILE
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/CondezJuan8/AtomManager"><img src="assets/project-01.svg" width="100%" alt="AtomManager project artwork" /></a>
+I'm a Software Development Technician passionate about backend engineering, software architecture, databases, and building scalable applications. I enjoy solving complex problems, exploring new technologies, and transforming ideas into functional software.
 
-**AtomManager** · Java
+My main interests are designing maintainable systems, understanding how software works beneath the interface, and creating reliable solutions through thoughtful engineering.
 
-A Java project from my public repositories. Explore the source for the implementation and structure.
+<pre>
+  CONDEZ / SOFTWARE ENGINEERING
+  ├── Focus       Backend development · Software architecture
+  ├── Ecosystem   Java · Spring Boot · TypeScript · Python
+  ├── Data        PostgreSQL · MongoDB · SQL · NoSQL
+  ├── Frontend    Angular · React
+  └── Based in    Colombia
+</pre>
 
-[Explore repository](https://github.com/CondezJuan8/AtomManager)
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/CondezJuan8/Formula1Simulator"><img src="assets/project-02.svg" width="100%" alt="Formula1Simulator project artwork" /></a>
+---
 
-**Formula1Simulator** · Java
+## / TECHNOLOGY STACK
 
-A public Java simulation project included in my development portfolio.
-
-[Explore repository](https://github.com/CondezJuan8/Formula1Simulator)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/CondezJuan8/ProyectoAcmeBank_JS_CondeJ-CamayoIsaac"><img src="assets/project-03.svg" width="100%" alt="AcmeBank project artwork" /></a>
-
-**AcmeBank** · JavaScript
-
-A collaborative JavaScript project, publicly available on my profile.
-
-[Explore repository](https://github.com/CondezJuan8/ProyectoAcmeBank_JS_CondeJ-CamayoIsaac)
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/CondezJuan8/FutbolistasChatbot"><img src="assets/project-04.svg" width="100%" alt="FutbolistasChatbot project artwork" /></a>
-
-**FutbolistasChatbot** · Python
-
-A public Python chatbot project representing practical development work.
-
-[Explore repository](https://github.com/CondezJuan8/FutbolistasChatbot)
-</td>
-</tr>
-</table>
-
-### Collaborative work
-
-**Campuslands Hub** · Angular / TypeScript  
-A collaborative event-management web application. I contributed to interfaces and features using Angular and TypeScript, applying version control and team development practices.
-
-**XEON — AI Quotation Agent** · Collaboration referenced  
-A project collaboration involving an AI-assisted quotation agent. Detailed contributions and a public repository link are not publicly verified.
-
-**ToolRental Platform** · Collaboration referenced  
-A collaborative software project. Detailed contributions and a public repository link are not publicly verified.
-
-<img src="assets/section-04.svg" width="100%" alt="04 Working approach" />
-
-**How I approach software**
-
-- **Structure first:** designing clear, maintainable components and workflows.
-- **Problem solving:** breaking down complex requirements into practical solutions.
-- **Collaboration:** communicating clearly, using version control, and working effectively with teams.
-- **Quality mindset:** prioritizing readability, reliability, and continuous refinement.
-
-**Languages:** Spanish (native) · English (B2.1)
-
-<img src="assets/section-05.svg" width="100%" alt="05 Activity" />
+Technologies and tools used across my learning and development projects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CondezJuan8&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D0A10&amp;title_color=FF657C&amp;text_color=E8D7DD&amp;icon_color=FF4564&amp;ring_color=FF4564" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CondezJuan8&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D0A10&amp;title_color=FF657C&amp;text_color=E8D7DD" alt="Public repository language breakdown" />
+### BACKEND ENGINEERING
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python&theme=dark" alt="Java, Spring Boot, Node.js and Python" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CondezJuan8&amp;bg_color=0D0A10&amp;color=F4DDE3&amp;line=FF4564&amp;point=FF9AAB&amp;area=true&amp;area_color=9C1933&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" />
+### FRONTEND DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=angular,react,ts&theme=dark" alt="Angular, React and TypeScript" />
 
-<sub>Live third-party widgets may occasionally be unavailable. Language charts reflect public repository metadata, not a proficiency ranking.</sub>
+### DATABASES & DATA
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="PostgreSQL, MongoDB and MySQL" />
+
+### ENGINEERING TOOLKIT
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,vscode&theme=dark" alt="Git, GitHub, Docker, Maven and VS Code" />
 
 </div>
 
-<img src="assets/section-06.svg" width="100%" alt="06 Connect" />
+<sub>SQL and NoSQL are database paradigms rather than individual products; PostgreSQL, MySQL and MongoDB are shown as representative technologies. This section does not claim proficiency levels.</sub>
+
+---
+
+## / GITHUB ANALYTICS
+
+Live cards are generated by external GitHub profile services. They may be temporarily unavailable due to service limits or outages; GitHub remains the source of truth.
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CondezJuan8&show_icons=true&hide_border=true&bg_color=08080D&title_color=FF1744&text_color=FFFFFF&icon_color=A855F7&rank_icon=github" alt="GitHub account statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CondezJuan8&layout=compact&hide_border=true&bg_color=08080D&title_color=FF1744&text_color=FFFFFF&langs_count=8" alt="Most used programming languages">
+</div>
+
+<div align="center">
+  <img width="72%" src="https://streak-stats.demolab.com?user=CondezJuan8&hide_border=true&background=08080D&ring=FF1744&fire=A855F7&currStreakLabel=FFFFFF&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA" alt="GitHub contribution streak">
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=CondezJuan8&bg_color=08080D&color=FFFFFF&line=7B2CFF&point=FF1744&area=true&hide_border=true&custom_title=PUBLIC%20CONTRIBUTION%20ACTIVITY" alt="GitHub activity graph">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CondezJuan8&label=PROFILE%20VISITORS&color=7B2CFF&style=flat-square" alt="Profile visitors">
+</div>
+
+---
+
+## / SELECTED WORK
+
+A selection of public repositories, ordered by technical scope and the engineering concepts they demonstrate. Descriptions and technology labels are based on the repositories' public documentation and visible source structure.
+
+### 01 — Formula1Simulator
+**Desktop simulation · Java 17 · JavaFX · MySQL**
+
+A desktop application that simulates a Formula 1 qualifying session. It models drivers, teams, cars, circuits, vehicle setup, weather and track evolution, then calculates session results with telemetry and dynamic events.
+
+- Hexagonal architecture with domain, application, and adapter layers.
+- JavaFX interface with 24 FXML views.
+- MySQL persistence with an in-memory fallback.
+- Public README documents 230 passing tests.
+
+<a href="https://github.com/CondezJuan8/Formula1Simulator"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-FF1744?style=flat-square&logo=github&logoColor=white" alt="View Formula1Simulator"></a>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JAVAFX-7B2CFF?style=flat-square" alt="JavaFX">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+
+### 02 — AtomManager
+**Desktop task management · Java 17 · JavaFX**
+
+A desktop task manager inspired by Jira and Trello. It supports users, task assignment, priorities and status tracking, using object-oriented design and SOLID principles.
+
+- JavaFX graphical interface.
+- `Map` / `HashMap` for in-memory data management.
+- `PriorityQueue` for priority-based ordering.
+- The repository README reports 20 passing tests for the implemented epics.
+
+<a href="https://github.com/CondezJuan8/AtomManager"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-FF1744?style=flat-square&logo=github&logoColor=white" alt="View AtomManager"></a>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JAVAFX-7B2CFF?style=flat-square" alt="JavaFX">
+
+### 03 — Tribuna Global IA
+**AI-assisted opinion analysis · Python · Streamlit · LangChain**
+
+A Streamlit application for collecting opinions about football players, classifying them with Gemini through LangChain, and consulting stored opinions after restarting the application.
+
+- Structured AI output and validated data handling.
+- Persistent opinion storage and filtering.
+- Docker configuration and automated tests documented in the repository.
+
+<a href="https://github.com/CondezJuan8/FutbolistasChatbot"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-FF1744?style=flat-square&logo=github&logoColor=white" alt="View Tribuna Global IA"></a>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/LANGCHAIN-7B2CFF?style=flat-square" alt="LangChain">
+
+### 04 — AcmeBank
+**Collaborative web application · HTML · CSS · JavaScript**
+
+A browser-based digital banking application for account self-management. The documented scope includes authentication, registration, password recovery, account operations, transaction summaries and PDF certificate generation. Data is stored in browser `localStorage`; the project does not claim a backend service.
+
+**Documented team:** Juan Pablo Conde and Manuel Isaac Díaz.
+
+<a href="https://github.com/CondezJuan8/ProyectoAcmeBank_JS_CondeJ-CamayoIsaac"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-FF1744?style=flat-square&logo=github&logoColor=white" alt="View AcmeBank"></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+
+### 05 — DeliveryBot / Proyecto_N8NConde
+**Workflow automation · n8n · Telegram Bot API · Google Sheets**
+
+An automated delivery-order workflow connecting Telegram and Google Sheets. Customers can browse categories, build a cart, confirm or cancel orders, and check order history and status. An administrator can review reports and update order states.
+
+<a href="https://github.com/CondezJuan8/Proyecto_N8NConde"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-FF1744?style=flat-square&logo=github&logoColor=white" alt="View DeliveryBot"></a>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+<img src="https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
+
+---
+
+## / COLLABORATIVE ENGINEERING
 
 <div align="center">
 
-**Interested in exchanging ideas, collaborating, or discussing software development?**
+<a href="https://github.com/CondezJuan8">
+  <img src="https://img.shields.io/badge/CONDEZ-08080D?style=for-the-badge&logo=github&logoColor=white&labelColor=7B2CFF" alt="Condez GitHub">
+</a>
+&nbsp;
+<strong>×</strong>
+&nbsp;
+<a href="https://github.com/dvanielx03">
+  <img src="https://img.shields.io/badge/DVANIELX03-08080D?style=for-the-badge&logo=github&logoColor=white&labelColor=FF1744" alt="dvanielx03 GitHub">
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/condezp8) · [GitHub](https://github.com/CondezJuan8) · [Email](mailto:condez.juanp@gmail.com)
+### CONDEZ × DVANIELX03
+**COLLABORATIVE ENGINEERING**
 
-<br />
+*Two developers. Shared ideas. Engineered solutions.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;size=16&amp;duration=3200&amp;pause=1100&amp;color=FF7186&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Good+software+starts+with+curiosity.;Always+building.+Always+improving." alt="Animated closing line" />
+</div>
 
+I value collaborative development, clear communication, version control and shared problem-solving. This section links both developer identities so visitors can explore their public work.
+
+**Verification note:** I could not establish a publicly verifiable shared repository, pull request, or commit involving both `CondezJuan8` and `dvanielx03` from the public evidence reviewed for this README. I am therefore not presenting a repository as a joint project or attributing commits to either developer without evidence.
+
+<div align="center">
+
+<a href="https://github.com/CondezJuan8">Condez — GitHub profile</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/dvanielx03">dvanielx03 — GitHub profile</a>
+
+</div>
+
+### Team development
+
+- Collaborative project experience is documented in the AcmeBank repository, which credits Juan Pablo Conde and Manuel Isaac Díaz.
+- Git-based project work and repository documentation are visible across the selected projects.
+- External open-source contributions and code-review activity are not claimed here unless they can be verified publicly.
+
+> Great software is rarely built alone. Collaboration turns ideas into better engineering.
+
+**Have an interesting project? Let's build something meaningful together.**
+
+---
+
+## / CONTRIBUTION ACTIVITY
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/7B2CFF/CondezJuan8" alt="GitHub contribution calendar for CondezJuan8" width="95%">
+</div>
+
+<sub>The calendar reflects contribution activity made public by GitHub. Private contribution details may not be visible, depending on account settings.</sub>
+
+---
+
+## / TERMINAL
+
+```bash
+$ whoami
+Condez
+
+$ role
+Software Development Technician
+
+$ organization
+Globant
+
+$ interests
+Backend Engineering
+Software Architecture
+Database Systems
+Full-Stack Development
+
+$ mission
+Build meaningful software and solve real-world problems.
+```
+
+---
+
+## / CONNECT
+
+<div align="center">
+
+<a href="https://github.com/CondezJuan8">
+  <img src="https://img.shields.io/badge/GITHUB-CondezJuan8-08080D?style=for-the-badge&logo=github&logoColor=white&labelColor=7B2CFF" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/condezp8">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONDEZ-08080D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1744" alt="LinkedIn">
+</a>
+
+<br><br>
+
+**Open to meaningful conversations, engineering challenges and collaborative projects.**
+
+</div>
+
+---
+
+<div align="center">
+  <sub>CONDEZ · SOFTWARE DEVELOPMENT · COLOMBIA</sub>
+  <br>
+  <sub>Designed to build. Engineered to evolve.</sub>
 </div>
