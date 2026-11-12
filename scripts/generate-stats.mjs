@@ -9,7 +9,7 @@ import { dirname, resolve } from "node:path";
 
 const USERNAME = process.env.GITHUB_USERNAME || "CondezJuan8";
 const TOKEN = process.env.GITHUB_TOKEN;
-const OUTPUT = resolve(process.env.OUTPUT_DIR || "assets/stats");
+const OUTPUT = resolve(process.env.OUTPUT_DIR || "stats");
 const API = "https://api.github.com/graphql";
 const REST = "https://api.github.com";
 const NOW = new Date();

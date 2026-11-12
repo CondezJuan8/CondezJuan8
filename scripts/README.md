@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/condez-hero.svg" alt="Condez — Software Development Technician" width="100%">
+<img src="../stats/condez-hero.svg" alt="Condez — Software Development Technician" width="100%">
 
 <br>
 
-<a href="assets/Condez_CV.pdf">
+<a href="../CV%20-%20ATS%20.pdf">
   <img src="https://img.shields.io/badge/DOWNLOAD%20MY%20RESUME-FF1744?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=08080D" alt="Download my resume">
 </a>
 &nbsp;
@@ -72,11 +72,11 @@ Technologies and tools used across my learning and development projects.
 A first-party analytics dashboard generated from GitHub's GraphQL and REST APIs by GitHub Actions. The SVG files are stored in this repository and refreshed automatically every day.
 
 <div align="center">
-  <img width="100%" src="assets/stats/overview.svg" alt="Condez GitHub profile statistics">
+  <img width="100%" src="../stats/overview.svg" alt="Condez GitHub profile statistics">
   <br><br>
-  <img width="100%" src="assets/stats/contributions.svg" alt="Condez GitHub contribution calendar">
+  <img width="100%" src="../stats/contributions.svg" alt="Condez GitHub contribution calendar">
   <br><br>
-  <img width="100%" src="assets/stats/activity.svg" alt="Condez GitHub activity trend">
+  <img width="100%" src="../stats/activity.svg" alt="Condez GitHub activity trend">
 </div>
 
 <sub>Metrics include public repositories, stars, forks, followers, public contribution history, streaks, language composition and recent public events. Contribution totals cover the previous 12 months. Language proportions are calculated from source-code byte sizes across owned, non-forked public repositories. Private activity is not included. Data refreshes daily after the scheduled workflow runs.</sub>
@@ -203,7 +203,7 @@ I value collaborative development, clear communication, version control and shar
 
 ## / CONTRIBUTION ACTIVITY
 
-The contribution calendar above is generated directly from GitHub's contribution data and stored as `assets/stats/contributions.svg`. It is refreshed automatically by GitHub Actions.
+The contribution calendar above is generated directly from GitHub's contribution data and stored as `stats/contributions.svg`. It is refreshed automatically by GitHub Actions.
 
 ---
 
